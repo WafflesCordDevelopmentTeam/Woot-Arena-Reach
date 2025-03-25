@@ -51,8 +51,8 @@ local function checkCooldown()
     return false
 end
 
--- [Rest of your existing functions remain exactly the same...]
--- showCredits(), showTime(), safeExecute(), cleanupTools(), processCommand()
+-- [The Rest of the commands are still there js do ";cmds" :D]
+
 
 -- Listen for commands in chat
 game:GetService("Players").LocalPlayer.Chatted:Connect(function(msg)
